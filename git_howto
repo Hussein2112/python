@@ -1,0 +1,27 @@
+git push https://github.com/Hussein2112/atlanta.git master
+hussein.abdirahman14@gmail.com
+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
+
+
+git log --graph --pretty=onelone
+
+
+
+Some Git exercise:
+-------------------
+mkdir /project2
+ cd /project2
+ git init
+ git config --global user.name "Hussein Abdirahman"
+ git config --global user.email "hussein.abdirahman14@gmail.com"
+ git remote add  mygit https://github.com/Hussein2112/atlanta.git
+ git remote
+ git pull mygit master
+ ls -l
+#Went to github.com and made a change to the file abc.txt
+ cat abc.txt
+ git pull mygit master
+ cat abc.txt
+
+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
+
